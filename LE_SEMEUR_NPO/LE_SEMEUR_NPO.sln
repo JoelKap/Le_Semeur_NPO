@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{892632CC-C840-4A59-B8B9-93EBA7C1C1CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5C52057-FD05-4B53-94E5-F9170700702C}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "LE_SEMEUR_NPO", "src\LE_SEMEUR_NPO\LE_SEMEUR_NPO.xproj", "{2D4551D0-DE8B-4A38-BDD1-18010C506631}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LE SEMEUR", "..\..\..\..\Pictures\LE SEMEUR\", "{1A53156C-17DF-4811-B658-01DF8D82F058}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_8048"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Pictures\LE SEMEUR\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8048\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_8048"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Pictures\LE SEMEUR\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8048\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "8048"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4551D0-DE8B-4A38-BDD1-18010C506631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4551D0-DE8B-4A38-BDD1-18010C506631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4551D0-DE8B-4A38-BDD1-18010C506631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4551D0-DE8B-4A38-BDD1-18010C506631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A53156C-17DF-4811-B658-01DF8D82F058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A53156C-17DF-4811-B658-01DF8D82F058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A53156C-17DF-4811-B658-01DF8D82F058}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A53156C-17DF-4811-B658-01DF8D82F058}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2D4551D0-DE8B-4A38-BDD1-18010C506631} = {892632CC-C840-4A59-B8B9-93EBA7C1C1CC}
+	EndGlobalSection
+EndGlobal
